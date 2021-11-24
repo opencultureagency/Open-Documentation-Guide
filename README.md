@@ -7,7 +7,9 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 ## Design Description
 
-![Open Source Documentation Guide](open-source-documentation-guide-final-front.png)
+![Open Source Documentation Guide front page](open-source-documentation-guide-front.png)
+![Open Source Documentation Guide back page](open-source-documentation-guide-back.png)
+
 
 **Hex Color Code:**
 
