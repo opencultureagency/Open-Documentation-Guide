@@ -20,10 +20,10 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 **Fonts used:**
 
-* Bearbone Stamp
-* Source Sans Pro
-* TravelSans Regular
-* DrusticDialy Sans
+* Titles: Bearbone Stamp [Download Font](https://www.dfonts.org/fonts/bearbone-sans/)
+* Main Body Text: Source Sans Pro [Download Font](https://fonts.google.com/specimen/Source+Sans+Pro/)
+* Subtitles: Travel Sans Regular [Download Font](https://ifonts.xyz/travel-font.html)
+* Front Page Steps 1 - 4 (not sure): Drustic Dialy Sans [Download Font](https://allbestfonts.com/drusticdialy/)
 
 **Editorial Team:**
 
@@ -31,7 +31,7 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 Jodi
 
-Timm Welle
+Timm Wille [Github](https://github.com/timmwille/)
 
 ## Partners and Founders
 
