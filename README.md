@@ -25,6 +25,11 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 * Subtitles: Travel Sans Regular [Download Font](https://ifonts.xyz/travel-font.html)
 * Front Page Steps 1 - 4 (not sure): Drustic Dialy Sans [Download Font](https://allbestfonts.com/drusticdialy/)
 
+
+**Text:**
+
+You can get the raw text files from the text folder [here]([Download Font](https://allbestfonts.com/drusticdialy/))
+
 **Editorial Team:**
 
 **Content Creator & Editor**
