@@ -28,7 +28,7 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 **Text:**
 
-You can get the raw text files from the text folder [here]([Download Font](https://allbestfonts.com/drusticdialy/))
+You can get the raw text files from the text folder [here](https://github.com/opencultureagency/Open-Documentation-Guide/tree/master/text))
 
 **Editorial Team:**
 
