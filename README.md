@@ -46,6 +46,7 @@ You can acess the raw images files graphics, icons, and logos from the images fo
 **Content Creator & Editor**
 
 Jodi
+
 Timm Wille [Github](https://github.com/timmwille/)
 
 ## Partners and Founders
