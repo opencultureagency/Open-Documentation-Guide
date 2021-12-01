@@ -51,12 +51,10 @@ Timm Wille [Github](https://github.com/timmwille/)
 ## Partners and Founders
 
 
-| r0g Agency   |      ASKnet      |  BMZ |
+| r0g Agency |      ASKnet      |  BMZ |
 |----------|:-------------:|------:|
-| ![r0g Logo](images/logos/r0g-logo-new-2021.png)](https://openculture.agency/) |  [![#ASKnet Logo](images/logos/asknet-logo.png)](https://github.com/ASKnet-Open-Training)| [![#ASKnet Logo](images/logos/bmz-logo.png)](https://www.bmz.de/en/) |
-
-    
-| r0g Agency | ASKnet | - | | :--------: | :----: | :-------------------------: | |[![r0g Logo](images/logos/r0g-logo-new-2021.png)](https://openculture.agency/)|[![#ASKnet Logo](images/logos/asknet-logo.png)](https://github.com/ASKnet-Open-Training)| [![#ASKnet Logo](images/logos/bmz-logo.png)](https://www.bmz.de/en/) | | [Official Website](https://openculture.agency/) | [Official Website](https://github.com/ASKnet-Open-Training) | [Official Website](https://www.bmz.de/en/) |
+| ![r0g Logo](images/logos/r0g-logo-new-2021.png)](https://openculture.agency/) | [![#ASKnet Logo](images/logos/asknet-logo.png)](https://github.com/ASKnet-Open-Training)| [![#ASKnet Logo](images/logos/bmz-logo.png)](https://www.bmz.de/en/) |
+| [Official Website](https://openculture.agency/) | [Official Website](https://github.com/ASKnet-Open-Training) | [Official Website](https://www.bmz.de/en/) |
 
 ## License
 [License](https://github.com/opencultureagency/Open-Documentation-Guide/blob/master/LICENSE.md)
