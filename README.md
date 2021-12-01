@@ -1,5 +1,4 @@
-# Open-Documentation-Guide
- # #ASKnet Open-Source-Documentation-Guide
+# #ASKnet Open-Source-Documentation-Guide
 
 This repository includes the material and graphics of a poster guide which helps with documenting Open Source.
 
@@ -28,10 +27,22 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 **Text:**
 
-You can get the raw text files from the text folder [here](https://github.com/opencultureagency/Open-Documentation-Guide/tree/master/text))
+You can acess the raw text files from the text folder [here](https://github.com/opencultureagency/Open-Documentation-Guide/tree/master/text)
+
+ [Front Text](text/01-front-open-source-documentation-guide-text.txt)
+ 
+ [Back Text](text/01-back-open-source-documentation-guide-text.txt)
+
+
+**Images:**
+
+You can acess the raw images files graphics, icons, and logos from the images folder [here](https://github.com/opencultureagency/Open-Documentation-Guide/tree/master/images)
+
+ [Front images](#)
+ [Back images](#)
+ [Logos](#)
 
 **Editorial Team:**
-
 **Content Creator & Editor**
 
 Jodi
