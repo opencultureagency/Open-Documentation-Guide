@@ -10,21 +10,28 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 ![Open Source Documentation Guide back page](open-source-documentation-guide-back.png)
 
 
-# **Hex Color Code:**
+# **Color scheme + Hex Color Codes:**
 
-* ![#EFEDE9](color-codes/EFEDE9.png) Background: #EFEDE9 
-* ![#DFB05F](color-codes/DFB05F.png) Darker highlighted parts in background: #DFB05F 
-* ![#EADEC5](color-codes/EADEC5.png) Lighter color of highlighted parts in background: #EADEC5
+### Yellow (main) *connotation: youthful, fresh, Africa, attention
+
+* ![#F0EEE5](color-codes/F0EEE5.png) Background: Beige #F0EEE5 
+* ![#DFAF5F](color-codes/DFAF5F.png) Darker highlighted parts in background: #DFAF5F 
+* ![#EADEC5](color-codes/EADEC5.png) Lighter highlighted parts in background: #EADEC5
+
+### Green (main): *connotation: knowledge, open spaces, freedom*
+
 * ![#7B8C37](color-codes/7B8C37.png) Color of numbers and key from Legend: #7B8C37 
+* 
+### Black & White (graphics)
+
 * ![#231F20](color-codes/231F20.png) Font and graphics: #231F20 
 
 # **Fonts used:**
 
-* Titles: Bearbone Stamp [Download Font](https://www.dfonts.org/fonts/bearbone-sans/)
-* Main Body Text: Source Sans Pro [Download Font](https://fonts.google.com/specimen/Source+Sans+Pro/)
+* Title: Bearbone Stamp [Download Font](https://www.dfonts.org/fonts/bearbone-sans/)
+* Body Text: Source Sans Pro [Download Font](https://fonts.google.com/specimen/Source+Sans+Pro/)
 * Subtitles: Travel Sans Regular [Download Font](https://ifonts.xyz/travel-font.html)
-* Front Page Steps 1 - 4 (not sure): Drustic Dialy Sans [Download Font](https://allbestfonts.com/drusticdialy/)
-
+* Front Page Steps 1 - 4 (not sure): Drustic Dialy Italic [Download Font](https://allbestfonts.com/drusticdialy/)
 
 # **Text:**
 
