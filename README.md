@@ -21,7 +21,7 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 ### Green (main): *connotation: knowledge, open spaces, freedom*
 
 * ![#7B8C37](color-codes/7B8C37.png) Color of numbers and key from Legend: #7B8C37 
-* 
+
 ### Black & White (graphics)
 
 * ![#231F20](color-codes/231F20.png) Font and graphics: #231F20 
