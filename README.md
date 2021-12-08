@@ -12,7 +12,7 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 # **Color scheme + Hex Color Codes:**
 
-### Yellow (main) *connotation: youthful, fresh, Africa, attention
+### Yellow (main) *connotation: youthful, fresh, Africa, attention&*
 
 * ![#F0EEE5](color-codes/F0EEE5.png) Background: Beige #F0EEE5 
 * ![#DFAF5F](color-codes/DFAF5F.png) Darker highlighted parts in background: #DFAF5F 
