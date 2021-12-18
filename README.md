@@ -49,6 +49,12 @@ You can acess the raw images files graphics, icons, and logos from the images fo
 * [Back images](https://github.com/opencultureagency/Open-Documentation-Guide/tree/master/images/back)
 * [Logos](https://github.com/opencultureagency/Open-Documentation-Guide/tree/master/images/logos)
 
+# **Source File:**
+
+Adobe Illustrator file of poster :
+* [Download Source File](https://cloud.openculture.agency/index.php/s/qLzMayizsELSWcd)
+
+
 # **Editorial Team:**
 **Content Creator & Editor**
 
