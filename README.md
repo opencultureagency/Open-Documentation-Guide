@@ -51,8 +51,10 @@ You can acess the raw images files graphics, icons, and logos from the images fo
 
 # **Source File:**
 
-Adobe Illustrator file of poster :
+Adobe Illustrator file:
 * [Download Source File](https://cloud.openculture.agency/index.php/s/qLzMayizsELSWcd)
+PDF Print-Ready file:
+* [Download Print-Ready PDF File](https://cloud.openculture.agency/index.php/s/zwx5t75CyGjtNja)
 
 
 # **Editorial Team:**
