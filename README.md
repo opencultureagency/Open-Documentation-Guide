@@ -61,7 +61,7 @@ PDF Print-Ready file:
 # **Editorial Team:**
 **Content Creator & Editor**
 
-Jodi
+Jodi Rose
 
 Timm Wille [Github](https://github.com/timmwille/)
 
