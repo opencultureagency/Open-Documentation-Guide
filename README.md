@@ -64,7 +64,7 @@ PDF Print-Ready file:
 Content Created by: #ASKnet participants / r0g_agency  
 Designed by: Adam Ferns  
 Assembled & Edited by: 
-Jodi Rose
+Jodi Rose and
 Timm Wille [Github](https://github.com/timmwille/)
 
 ## Partners and Founders
