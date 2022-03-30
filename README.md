@@ -1,6 +1,6 @@
 # #ASKnet Open-Source-Documentation-Guide
 
-This repository includes the material (texts / graphics / Source file / pdf) of the #ASKnet __Open Source Documentation Guide__ poster .
+This repository includes the materials (texts / graphics / Source file / pdf) of the #ASKnet __Open Source Documentation Guide__ poster .
 
 More about [#ASKnet](https://asknet.community/) here.
 
