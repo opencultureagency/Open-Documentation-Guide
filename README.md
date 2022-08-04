@@ -37,8 +37,8 @@ More about [#ASKnet](https://asknet.community/) here.
 
 You can acess the raw text files from the text folder [here](https://github.com/opencultureagency/Open-Documentation-Guide/tree/master/text)
 
-* [Front Text](text/text-ODG-front.txt)
-* [Back Text](text/text-ODG-back.txt)
+* [Main Text](text/Content.md)
+* [Credits Text](text/Credits.md)
 
 
 # **Images:**
